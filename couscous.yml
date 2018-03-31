@@ -1,0 +1,17 @@
+template:
+    url: https://github.com/perinatologie/perinatologie-couscous-template.git
+
+github:
+    user: perinatologie
+    repo: perinatologie.github.io
+
+title: Documentatie
+subTitle: inhoudsopgave
+
+# The left menu bar
+# menu:
+#     items:
+#         home:
+#             text: Inleiding
+#             relativeUrl: ./
+        
